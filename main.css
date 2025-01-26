@@ -1,0 +1,29 @@
+.tepa{
+    display: flex;
+    gap:250px
+}
+
+.container{
+   
+   height: 100px;
+   padding-left: 100px;
+}
+.rangli-yozu{
+    color: orangered;
+}
+input{
+    border-radius: 100px;
+}
+.qwerty:hover{
+    background-color: aquamarine;
+}
+.ytrewq:hover{
+    background-color: aquamarine;
+}
+.ota{
+    display: flex;
+    gap: 10px;
+}
+.vibor{
+    width: 200px;
+}
